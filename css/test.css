@@ -1,8 +1,8 @@
 body{
-	background-color: lightgrey;
+	background-color: papayawhip;
 }
 h1{
-	color: slateblue;
+	color: darkslateblue;
 	font-size: 70px;
 	text-decoration: line-through;
 }
@@ -18,7 +18,7 @@ h2{
 }
 span{
 	font-style: italic;
-	color: pink;
+	color: hotpink;
 }
 h2 span{
 	text-decoration: underline;
