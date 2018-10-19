@@ -1,0 +1,86 @@
+html, body{
+	font-family: Helvetica,sans-serif;
+	margin: 0px;
+	color: #8956cd;
+	font-size: 20px;
+	text-align: center;
+	background-color: white;
+}
+
+header{
+	background-image: url("../img/colors.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-color: white;
+	padding: 40px;
+}
+
+h1{
+	font-size: 90px;
+	font-family: 'Ubuntu Mono', monospace;
+	font-weight: bold ;
+	margin: 15px;
+	color: white;
+}
+h2{
+	padding-top: 20px;
+}
+
+header img{
+	margin: 20px;
+	width: 300px;
+	border: 20px solid #b19bdb;
+	box-shadow: 1 10px 20px aqua;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+img.scene{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 18px;
+	color: grey;
+	font-style: italic;
+}
+
+ol, ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-weight: bold;
+	color: white;
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 80px;
+	padding: 40px 20px;
+	background-color: #E6E6E6;
+}
+
+footer ul{
+	text-align: center;
+	font-weight: normal;
+}
+
+footer ul li{
+	display: inline-block;
+	margin:0 5px;
+}
+
+li {
+    background-color: #d0adff;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 10px;
+}
